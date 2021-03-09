@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": ">=5.3.7",
-    "tuupola/base32": "~1.6",
+    "tuupola/base32": "2.0.0",
     "paragonie/random_compat": "~1.4|~2.0",
     "symfony/polyfill-php56": "~1.2"
   },
